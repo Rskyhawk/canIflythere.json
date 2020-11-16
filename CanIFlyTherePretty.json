@@ -71843,8 +71843,8 @@
       "status":"exists"
    },
    "Z22T":{
-      "status":"exists"
-   },
+      "status":"renamed",
+	  "simIcao":"MMOC"},
    "Z22W":{
       "status":"missing"
    },
